@@ -1,0 +1,18 @@
+base: sshleifer/tiny-gpt2
+task: sft
+data:
+  train: train.jsonl
+  format: alpaca
+  val_split: 0
+  max_length: 64
+training:
+  epochs: 1
+  lr: 0.0002
+  seed: 42
+  data_seed: 42
+  batch_size: 1
+  gradient_accumulation_steps: 1
+  quantization: none
+  optimizer: adamw_torch
+  logging_steps: 1
+output: output

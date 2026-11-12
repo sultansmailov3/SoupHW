@@ -1,0 +1,3 @@
+soup-cli[train]==0.77.2
+pytest
+hypothesis
