@@ -1,0 +1,11 @@
+{
+  "kind": "duplicate-plan",
+  "args": [
+    "soup",
+    "plan",
+    "-c",
+    "soup.yaml"
+  ],
+  "code": 0,
+  "outcome": "accepted"
+}

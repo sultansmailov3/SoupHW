@@ -1,0 +1,5 @@
+Config validation error:
+
+  training: multipack and packing are mutually exclusive — pick one (multipack 
+uses FFD bin-packing; packing uses TRL's basic packer). For most uses, 
+multipack=true is the better choice.

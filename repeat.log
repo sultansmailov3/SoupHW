@@ -1,0 +1,13 @@
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00, 548.92it/s]
+a 1
+b 1
+duplicate 1
+{
+  "exit_codes": {
+    "a": 1,
+    "b": 1,
+    "duplicate": 1
+  }
+}
+
+exit_code=1

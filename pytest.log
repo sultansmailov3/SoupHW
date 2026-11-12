@@ -1,0 +1,6 @@
+.......x                                                                 [100%]
+=========================== short test summary info ============================
+XFAIL test_config.py::test_duplicate_epochs - QA-01: duplicate epochs accepted and last value used
+7 passed, 1 xfailed in 26.46s
+
+exit_code=0

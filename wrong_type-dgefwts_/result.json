@@ -1,0 +1,11 @@
+{
+  "kind": "wrong_type",
+  "args": [
+    "soup",
+    "plan",
+    "-c",
+    "soup.yaml"
+  ],
+  "code": 1,
+  "outcome": "clear config error"
+}

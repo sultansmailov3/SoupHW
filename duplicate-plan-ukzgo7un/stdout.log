@@ -1,0 +1,18 @@
+                                 Training plan                                  
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Field                   ┃ Value                                              ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ base                    │ sshleifer/tiny-gpt2                                │
+│ task                    │ sft                                                │
+│ config_sha              │ ae388b664518a6f4...                                │
+│ dataset_sha             │ c7601168cdcfc3e6...                                │
+│ estimated_cost          │ $0.2000                                            │
+│ estimated_minutes       │ 40.0                                               │
+│ peak_vram_gb            │ unknown: could not read the model's config.json    │
+│                         │ (local, cache or Hub)                              │
+│ spot_price_usd_per_hour │ $0.30                                              │
+└─────────────────────────┴────────────────────────────────────────────────────┘
+╭──────────────────────────────────── plan ────────────────────────────────────╮
+│ Plan written to soup.tfstate.                                                │
+│ Review the numbers, then run `soup apply` to record the plan.                │
+╰──────────────────────────────────────────────────────────────────────────────╯
